@@ -14,13 +14,6 @@
   "explorer.decorations.badges": false,
   "window.customTitleBarVisibility": "never",
   "window.titleBarStyle": "native",
-  "custom-ui-style.electron": {
-    "titleBarStyle": "hiddenInset",
-    "trafficLightPosition": {
-      "x": 20,
-      "y": 16
-    }
-  },
   "custom-ui-style.stylesheet": {
     ".notification-toast": "box-shadow: none !important",
     ".quick-input-widget.show-file-icons": "box-shadow: none !important",
