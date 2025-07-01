@@ -1,7 +1,6 @@
 {
   "recommendations": [
     "aaron-bond.better-comments",
-    "akamud.vscode-theme-onedark",
     "burkeholland.simple-react-snippets",
     "cedricverlinden.cursor-dark",
     "dsznajder.es7-react-js-snippets",
@@ -22,7 +21,6 @@
     "ms-vscode.remote-explorer",
     "ms-vscode.remote-repositories",
     "quicktype.quicktype",
-    "subframe7536.custom-ui-style",
-    "zhuangtongfa.material-theme"
+    "subframe7536.custom-ui-style"
   ]
 }
